@@ -72,7 +72,7 @@ I am a **Data Scientist and AI/ML Specialist** dedicated to helping businesses u
 Let's collaborate on **Data Science**, **AI Agents**, or **RPA** projects!
 
 <p align="center">
-<a href="https://www.linkedin.com/in/zainali2103/" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Zain Ali LinkedIn" /></a>
+<a href="https://www.linkedin.com/in/zain-ali21/" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Zain Ali LinkedIn" /></a>
 &nbsp;
 <a href="mailto:zainali210399@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="zainali210399@gmail.com" /></a>
 &nbsp;

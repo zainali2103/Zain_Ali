@@ -1,4 +1,4 @@
-# ***Hey 👋 I'm Zain Ali !***
+# ***Hello I'm Zain Ali !***
 
 ---
 

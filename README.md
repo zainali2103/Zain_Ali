@@ -1,11 +1,9 @@
 <div align="center">
 
-<!-- Typing SVG Header -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=2E8B57&center=true&vCenter=true&width=800&lines=Hi+there,+I'm+Zain+Ali+👋;Data+Scientist+%7C+AI+%26+ML+Specialist;Python,+Automation+%26+Analytics;Based+in+Berlin,+Germany+🇩🇪" alt="Typing SVG" />
+# ***Hey 👋 I'm Zain Ali !***
 
 <br/>
 
-<!-- Social Badges -->
 <a href="mailto:zainali210399@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
 </a>

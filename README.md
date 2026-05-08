@@ -17,12 +17,12 @@
 
 ### 👨‍💻 About Me
 
-I am a **Data Scientist and AI/ML Specialist** working as an independent freelancer to help businesses unlock the true potential of their data. Whether it's building predictive machine learning models, creating dynamic analytics dashboards, or writing clean Python scripts to automate tedious workflows, I thrive at the intersection of data and engineering.
+I am a **Data Scientist and AI/ML Specialist** dedicated to helping businesses unlock the true potential of their data. Whether it's architecting predictive machine learning models, designing dynamic analytics dashboards, or leveraging Python and **Robotic Process Automation (RPA)** to streamline complex workflows, I thrive at the intersection of data and engineering.
 
 - 🔭 I’m currently working on **impactful AI, ML, and Data Analytics projects.**
-- 🧠 I specialize in **Python, Machine Learning, Predictive Analytics, and Workflow Automation.**
+- 🧠 I specialize in **Python, Machine Learning, Predictive Analytics, and Robotic Process Automation (RPA).**
 - 🌱 I’m currently exploring **advanced Generative AI and scalable data architectures.**
-- 💬 Ask me about **predictive modeling, data visualization, Python scripting, or tech in Berlin!**
+- 💬 Ask me about **predictive modeling, data visualization, RPA solutions, Python scripting, or tech in Berlin!**
 
 ---
 

@@ -74,7 +74,7 @@ Let's collaborate on **Data Science**, **AI Agents**, or **RPA** projects!
 <p align="center">
 <a href="https://www.linkedin.com/in/zain-ali21/" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Zain Ali LinkedIn" /></a>
 &nbsp;
-<a href="mailto:zainali210399@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="zainali210399@gmail.com" /></a>
+<a href="mailto:zainal210399@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="zainali210399@gmail.com" /></a>
 &nbsp;
 <a href="https://github.com/zainali2103" target="blank"><img align="center" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="Zain Ali GitHub" /></a>
 </p>

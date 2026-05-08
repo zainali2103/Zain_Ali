@@ -1,5 +1,8 @@
-# ***Hey 👋 I'm Zain Ali !***<table>
+# ***Hey 👋 I'm Zain Ali !***
 
+---
+
+<table>
   <tr>
     <td valign="top" width="65%">
       🎓 Currently pursuing an MSc in Data Science in Berlin, Germany 🇩🇪
@@ -15,3 +18,5 @@
     </td>
   </tr>
 </table>
+
+<br/>

@@ -65,15 +65,22 @@ I am a **Data Scientist and AI/ML Specialist** dedicated to helping businesses u
 </p>
 
 ---
-### 💻 I Code With
+<div align="center">
 
-| | | | | | | |
-| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" width="40" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" width="40" /> | <img src="https://img.shields.io/badge/-Plotly-3F4F75?style=flat&logo=plotly&logoColor=white" height="25" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" width="40" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="40" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="40" /> |
-| **Python** | **Pandas** | **NumPy** | **Plotly** | **Jupyter** | **VS Code** | **MySQL** |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="40" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" width="40" /> | <img src="https://img.shields.io/badge/-BigQuery-669DF6?style=flat&logo=googlebigquery&logoColor=white" height="25" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" /> | <img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white" height="25" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" width="40" /> |
-| **Postgres** | **Oracle** | **BigQuery** | **Git** | **GitHub** | **AWS** | **Azure** |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" width="40" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" width="40" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/keras/keras-original.svg" width="40" /> | <img src="https://img.shields.io/badge/-Tableau-E97627?style=flat&logo=tableau&logoColor=white" height="25" /> | <img src="https://img.shields.io/badge/-Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black" height="25" /> | <img src="https://img.shields.io/badge/-UiPath-FA4616?style=flat&logo=uipath&logoColor=white" height="25" /> | <img src="https://img.shields.io/badge/-n8n-EA4C89?style=flat&logo=n8n&logoColor=white" height="25" /> |
-| **PyTorch** | **TF** | **Keras** | **Tableau** | **Power BI** | **UiPath** | **n8n** |
+### 🤝 Connect with me
 
----
+Let's collaborate on **Data Science**, **AI Agents**, or **RPA** projects!
+
+<p align="center">
+<a href="https://www.linkedin.com/in/zainali2103/" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Zain Ali LinkedIn" /></a>
+&nbsp;
+<a href="mailto:zainali210399@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="zainali210399@gmail.com" /></a>
+&nbsp;
+<a href="https://github.com/zainali2103" target="blank"><img align="center" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="Zain Ali GitHub" /></a>
+</p>
+
+<br />
+
+<img src="https://komarev.com/ghpvc/?username=zainali2103&label=Profile%20views&color=2E8B57&style=flat" alt="zainali2103" />
+
+</div>

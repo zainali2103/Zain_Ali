@@ -1,1 +1,62 @@
-# Zain_Ali
+<div align="center">
+
+<!-- Typing SVG Header -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=2E8B57&center=true&vCenter=true&width=800&lines=Hi+there,+I'm+Zain+Ali+👋;Data+Scientist+%7C+AI+%26+ML+Specialist;Python,+Automation+%26+Analytics;Based+in+Berlin,+Germany+🇩🇪" alt="Typing SVG" />
+
+<br/>
+
+<!-- Social Badges -->
+<a href="mailto:zainali210399@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+</a>
+<a href="https://www.linkedin.com/in/zainali2103/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+
+</div>
+
+---
+
+### 👨‍💻 About Me
+
+I am a **Data Scientist and AI/ML Specialist** working as an independent freelancer to help businesses unlock the true potential of their data. Whether it's building predictive machine learning models, creating dynamic analytics dashboards, or writing clean Python scripts to automate tedious workflows, I thrive at the intersection of data and engineering.
+
+- 🔭 I’m currently working on **impactful AI, ML, and Data Analytics projects.**
+- 🧠 I specialize in **Python, Machine Learning, Predictive Analytics, and Workflow Automation.**
+- 🌱 I’m currently exploring **advanced Generative AI and scalable data architectures.**
+- 💬 Ask me about **predictive modeling, data visualization, Python scripting, or tech in Berlin!**
+
+---
+
+### 🛠️ Tech Stack & Tools
+
+<div align="center">
+  
+  **Languages & Scripting** <br>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" />
+  
+  <br> **Machine Learning & Data Science** <br>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
+  
+  <br> **Tools & Platforms** <br>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+
+</div>
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=zainali2103&show_icons=true&theme=transparent&hide_border=true&title_color=2E8B57&icon_color=2E8B57&text_color=ffffff" alt="Zain's GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zainali2103&theme=transparent&hide_border=true&ring=2E8B57&fire=2E8B57&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=2E8B57&sideLabels=ffffff&dates=ffffff" alt="Zain's GitHub Streak" />
+</div>

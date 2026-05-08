@@ -1,9 +1,9 @@
-# ***Hello I'm Zain Ali !***
+# ***Hey 👋 I'm Zain Ali !***
 
 ---
 
 <div>
-  <img align="right" src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/main/Images/coding.gif" alt="Coding Animation" width="280">
+  <img align="right" src="code_AI.gif" alt="Coding Animation" width="280">
   
   <p>🎓 Currently pursuing an MSc in Data Science in Berlin, Germany 🇩🇪</p>
   <p>🚀 Actively seeking opportunities in Data Science, AI/ML, and Business Intelligence (BI)</p>
